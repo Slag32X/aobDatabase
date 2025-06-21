@@ -2,6 +2,6 @@
   "aobEntries": [
     { "version Nightly": "2.3.430", "aob": "01 34 AB CD EF 00 FF" },
     { "version Nightly": "2.3.429", "aob": "02 34 AB CD EF 00 FF" },
-    { "version Stable": "2.2.0", "aob": "11 22 33 44 55 66 77" }
+    { "version Stable": "2.2.0", "aob": "02 22 33 44 55 66 77" }
   ]
 }
