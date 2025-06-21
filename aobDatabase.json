@@ -1,12 +1,6 @@
 {
   "aobEntries": [
-    {
-      "version": "2.3.430",
-      "aob": "12 34 AB CD EF 00 FF"
-    },
-    {
-      "version": "2.2.0",
-      "aob": "11 22 33 44 55 66 77"
-    }
+    { "version": "2.3.430", "aob": "12 34 AB CD EF 00 FF" },
+    { "version": "2.2.0", "aob": "11 22 33 44 55 66 77" }
   ]
 }
